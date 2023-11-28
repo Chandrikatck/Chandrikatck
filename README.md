@@ -4,7 +4,7 @@ Hey, I'm a B.Tech graduate with a deep love for DevOps. My aim is to blend techn
 
 Skills: Terraform/Docker/Kubernetes/Linux/Git bash/AWS/Azure/VS Code/Jenkins/Ansible/shell-scripting
 - 👀 I’m interested in DevOps
-- 📫 How to reach me: chandrikat689@gmail.com 
+- 📫 How to reach me: chandrikatalla689@gmail.com 
 
 <!---
 Chandrikatck/Chandrikatck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
