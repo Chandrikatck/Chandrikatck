@@ -14,4 +14,3 @@ You can click the Preview link to take a look at your changes.
 These are a few projects that I have commenced since embarking on my cloud and devops journey.  I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
 
-<h2>👨‍💻 Projects & Hands-On's:</h2> 
