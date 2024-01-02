@@ -2,7 +2,7 @@
 
 Hey, I'm a B.Tech graduate with a deep love for DevOps. My aim is to blend technology to deliver innovative solutions that make an impact.
 
-Skills: Terraform/Docker/Kubernetes/Linux/Git bash/AWS/Azure/VS Code/Jenkins/shell-scripting/Python/DevOps
+Skills: Terraform/Docker/Kubernetes/Linux/Git/GitHub/AWS/Azure/VS Code/Jenkins/shell-scripting/Python/DevOps
 - 👀 I’m interested in DevOps
 - 📫 How to reach me: chandrikatalla689@gmail.com 
 
